@@ -1,6 +1,10 @@
 # Flutterwave Rave FirebirdCloud Domain and Hosting Reseller PHP Payment Integration Kit
 Flutterwave's Rave PHP payment gateway integration kit for FirebirdCloud's white label web host reseller platform. Become the "Domain and Hosting Reseller" with Nigeria's leading domain and web hosting resseller. Get your web hosting business started instantly at no cost and accept payment using this Flutterwave Rave PHP payment gateway integration kit.
 
+## Prerequisite
+- Before you can use this script, you will need to have an FirebirdCloud Domain and Hosting reseller account. Create a free account now if you haven't already done so: https://firebirdcloud/reseller.php?action=partnersite
+- Before you can start integrating Rave by Flutterwave, you will need a Rave account. Create a free account now if you haven't already done so: https://rave.flutterwave.com/signup
+
 ## Introduction
 
 The system has the built-in ability to allow you to integrate Paystack to allow your Customers / Sub-Resellers to pay you. What we have done is, built a module that can pass parameters to an intermediate bridge on your server, that you can then integrate with any Payment Gateway of your choice.
